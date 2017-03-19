@@ -1,0 +1,9 @@
+<sync rows="905">
+	<tracks>
+		<track name="my_track">
+			<key row="0" value="0" interpolation="1"/>
+			<key row="904" value="255" interpolation="0"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
